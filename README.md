@@ -19,7 +19,7 @@ I used React, bcrypt, axios, jsonwebtoken, nodemailer to build the advanced auth
 
 
   - [Github](https://github.com/sakibshadman1)
-  - [LinkedIn](https://www.linkedin.com/in/shadman-sakib-414b25211)
+  - [LinkedIn](https://www.linkedin.com/in/shadman-sakib-95462923a/)
   - [Facebook](https://www.facebook.com/shadman.sakibtanmoy)
   
 ---
