@@ -3,7 +3,7 @@
 <img src="ss.png"/>  
 <br/>
 
-### Live Link - https://advanced-authentication.netlify.app/login
+### Live Link - https://advanced-authentication.netlify.app/
 
 
 <br/>
